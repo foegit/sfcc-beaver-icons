@@ -1,0 +1,36 @@
+{
+    "name": "sfcc-beaver-icons",
+    "displayName": "SFCC Beaver - Icons",
+    "description": "SFCC File Icons Pack",
+    "version": "1.12.0",
+    "repository": "https://github.com/foegit/sfcc-beaver-icons",
+    "icon": "static/logo.png",
+    "author": {
+        "email": "foegit@gmail.com",
+        "name": "Serhii Hlavatskyi"
+    },
+    "publisher": "SerhiiHlavatskyi",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "sfcc",
+        "salesforce",
+        "demandware",
+        "dw",
+        "cartridge",
+        "commerce cloud"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "beaver",
+                "label": "Beaver Icons",
+                "path": "./src/beaverIcons.json"
+            }
+        ]
+    }
+}

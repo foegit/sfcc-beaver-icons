@@ -138,6 +138,9 @@
         "wav": "_icon_audio",
         "aac": "_icon_audio"
     },
+    "languageIds": {
+        "javascript": "_icon_js"
+    },
     "fileNames": {
         ".editorconfig": "_icon_editorconfig",
         ".eslintrc.js": "_icon_eslint",
@@ -153,6 +156,7 @@
         ".gitattributes": "_icon_git",
         ".project": "_icon_cloud",
         ".stylelintrc.json": "_icon_stylelint",
+        ".vscodeignore": "_icon_vscode",
         "COMMIT_EDITMSG": "_icon_git",
         "bm_extensions.xml": "_icon_bm_extensions",
         "dw.json": "_icon_dw",
@@ -278,6 +282,7 @@
         "_icon_txt": { "iconPath": "./images/txt.svg" },
         "_icon_version": { "iconPath": "./images/version.txt.svg" },
         "_icon_video": { "iconPath": "./images/video.svg" },
+        "_icon_vscode": { "iconPath": "./images/vscode.svg" },
         "_icon_vue": { "iconPath": "./images/vue.svg" },
         "_icon_wsdl": { "iconPath": "./images/wsdl.svg" },
         "_icon_wsdl_properties": { "iconPath": "./images/wsdl.properties.svg" },

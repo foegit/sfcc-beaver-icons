@@ -77,6 +77,7 @@
     "fileExtensions": {
         "7z": "_icon_7z",
         "cmd": "_icon_terminal",
+        "config/json": "_icon_config",
         "controllers/js": "_icon_controller",
         "css": "_icon_css",
         "css.map": "_icon_cssmap",
@@ -142,6 +143,7 @@
         "javascript": "_icon_js"
     },
     "fileNames": {
+        ".babelrc": "_icon_babel",
         ".editorconfig": "_icon_editorconfig",
         ".eslintrc.js": "_icon_eslint",
         ".eslintrc.cjs": "_icon_eslint",
@@ -154,6 +156,15 @@
         ".gitmodules": "_icon_git",
         ".gitignore": "_icon_git",
         ".gitattributes": "_icon_git",
+        ".npmrc": "_icon_package_lock_json",
+        ".prettierrc.json": "_icon_prettier",
+        ".prettierrc.yml": "_icon_prettier",
+        ".prettierrc.yaml": "_icon_prettier",
+        ".prettierrc.json5": "_icon_prettier",
+        ".prettierrc.js": "_icon_prettier",
+        ".prettierrc.cjs": "_icon_prettier",
+        ".prettierrc.toml": "_icon_prettier",
+        ".project": "_icon_cloud",
         ".project": "_icon_cloud",
         ".stylelintrc.json": "_icon_stylelint",
         ".vscodeignore": "_icon_vscode",
@@ -174,7 +185,8 @@
         "steptypes.json": "_icon_steptypes",
         "steptypes.xml": "_icon_steptypes",
         "version.txt": "_icon_version",
-        "webpack.config.js": "_icon_webpack"
+        "webpack.config.js": "_icon_webpack",
+        "webpack-dev.config.js": "_icon_webpack"
     },
     "iconDefinitions": {
         "_file": { "iconPath": "./images/file.svg" },
@@ -231,7 +243,9 @@
 
         "_icon_7z": { "iconPath": "./images/7z.svg" },
         "_icon_audio": { "iconPath": "./images/audio.svg" },
+        "_icon_babel": { "iconPath": "./images/babel.svg" },
         "_icon_bm_extensions": { "iconPath": "./images/bm_extensions.xml.svg" },
+        "_icon_config": { "iconPath": "./images/config.svg" },
         "_icon_controller": { "iconPath": "./images/controller.svg" },
         "_icon_cloud": { "iconPath": "./images/cloud.svg" },
         "_icon_css": { "iconPath": "./images/css.svg" },
@@ -254,6 +268,7 @@
         "_icon_json": { "iconPath": "./images/json.svg" },
         "_icon_jsmap": { "iconPath": "./images/jsmap.svg" },
         "_icon_git": { "iconPath": "./images/git.svg" },
+        "_icon_gitignore": { "iconPath": "./images/gitignore.svg" },
         "_icon_md": { "iconPath": "./images/md.svg" },
         "_icon_msexcel": { "iconPath": "./images/msexcel.svg" },
         "_icon_mspowerpoint": { "iconPath": "./images/mspowerpoint.svg" },
@@ -265,6 +280,7 @@
         "_icon_p12": { "iconPath": "./images/p12.svg" },
         "_icon_package_lock_json": { "iconPath": "./images/package-lock.json.svg" },
         "_icon_postcss": { "iconPath": "./images/postcss.svg" },
+        "_icon_prettier": { "iconPath": "./images/prettier.svg" },
         "_icon_properties": { "iconPath": "./images/properties.svg" },
         "_icon_rar": { "iconPath": "./images/rar.svg" },
         "_icon_readme": { "iconPath": "./images/readme.svg" },

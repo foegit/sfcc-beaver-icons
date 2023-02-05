@@ -15,95 +15,95 @@ With different icons you can detect files and folders faster saving some time.
 | Name | Icons | |
 | ------------- | ------------- | ------------- |
 | **SFCC Specific**  |  |
-| BM extension  | ![alt text](src/images/bm_extensions.xml.svg) |
-| caches | ![alt text](src/images/caches.json.svg) |
-| configs | ![alt text](src/images/config.svg) |
-| controller | ![alt text](src/images/controller.svg) |
-| ds | ![alt text](src/images/ds.svg) |
-| dw.json | ![alt text](src/images/dw.json.svg) |
-| isml | ![alt text](src/images/isml.svg) |
-| ismllinter | ![alt text](src/images/ismllinter.svg) |
-| jks | ![alt text](src/images/jks.svg) |
-| p12 | ![alt text](src/images/p12.svg) |
-| properties | ![alt text](src/images/properties.svg) |
-| steptypes | ![alt text](src/images/steptypes.json.svg) |
-| .project  | ![alt text](src/images/cloud.svg) |
-| .tern-project | ![alt text](src/images/setting.svg) |
+| BM extension  | ![alt text](static/icons/bm_extensions.xml.png) |
+| caches | ![alt text](static/icons/caches.json.png) |
+| configs | ![alt text](static/icons/config.png) |
+| controller | ![alt text](static/icons/controller.png) |
+| ds | ![alt text](static/icons/ds.png) |
+| dw.json | ![alt text](static/icons/dw.json.png) |
+| isml | ![alt text](static/icons/isml.png) |
+| ismllinter | ![alt text](static/icons/ismllinter.png) |
+| jks | ![alt text](static/icons/jks.png) |
+| p12 | ![alt text](static/icons/p12.png) |
+| properties | ![alt text](static/icons/properties.png) |
+| steptypes | ![alt text](static/icons/steptypes.json.png) |
+| .project  | ![alt text](static/icons/cloud.png) |
+| .tern-project | ![alt text](static/icons/setting.png) |
 | **General**  |  |
-| archives  | ![alt text](src/images/7z.svg) |
-| audio  | ![alt text](src/images/audio.svg) |
-| babel  | ![alt text](src/images/babel.svg) |
-| css  | ![alt text](src/images/css.svg) |
-| css map  | ![alt text](src/images/cssmap.svg) |
-| csv | ![alt text](src/images/csv.svg) |
-| editorconfig | ![alt text](src/images/editorconfig.svg) |
-| eslint | ![alt text](src/images/eslint.svg) |
-| exe | ![alt text](src/images/exe.svg) |
-| file | ![alt text](src/images/file.svg) |
-| git | ![alt text](src/images/git.svg) |
-| hooks | ![alt text](src/images/hooks.json.svg) |
-| html | ![alt text](src/images/html.svg) |
-| img | ![alt text](src/images/img.svg) |
-| js | ![alt text](src/images/js.svg) |
-| jsmap | ![alt text](src/images/jsmap.svg) |
-| license | ![alt text](src/images/license.svg) |
-| logs | ![alt text](src/images/log.svg) |
-| markdown | ![alt text](src/images/md.svg) |
-| MS Excel | ![alt text](src/images/msexcel.svg) |
-| MS Power Point | ![alt text](src/images/mspowerpoint.svg) |
-| MS Word | ![alt text](src/images/msword.svg) |
-| otf | ![alt text](src/images/otf.svg) |
-| package.json | ![alt text](src/images/package.json.svg) |
-| package-lock.json | ![alt text](src/images/package-lock.json.svg) |
-| pdf | ![alt text](src/images/pdf.svg) |
-| postcss | ![alt text](src/images/postcss.svg) |
-| prettier | ![alt text](src/images/prettier.svg) |
-| rar | ![alt text](src/images/rar.svg) |
-| react | ![alt text](src/images/react.svg) |
-| readme | ![alt text](src/images/readme.svg) |
-| launch.json | ![alt text](src/images/rocket.svg) |
-| scss | ![alt text](src/images/scss.svg) |
-| stylelint | ![alt text](src/images/stylelint.svg) |
-| svg | ![alt text](src/images/svg.svg) |
-| terminal | ![alt text](src/images/terminal.svg) |
-| typescript | ![alt text](src/images/ts.svg) |
-| typescript definitions | ![alt text](src/images/ts.def.svg) |
-| version| ![alt text](src/images/version.txt.svg) |
-| video | ![alt text](src/images/video.svg) |
-| vscode | ![alt text](src/images/vscode.svg) |
-| vue | ![alt text](src/images/vue.svg) |
-| webpack | ![alt text](src/images/webpack.svg) |
-| woff | ![alt text](src/images/woff.svg) |
-| woff2 | ![alt text](src/images/woff2.svg) |
-| wsdl | ![alt text](src/images/wsdl.svg) |
-| xml | ![alt text](src/images/xml.svg) |
-| yml | ![alt text](src/images/yml.svg) |
-| zip | ![alt text](src/images/zip.svg) |
+| archives  | ![alt text](static/icons/7z.png) |
+| audio  | ![alt text](static/icons/audio.png) |
+| babel  | ![alt text](static/icons/babel.png) |
+| css  | ![alt text](static/icons/css.png) |
+| css map  | ![alt text](static/icons/cssmap.png) |
+| csv | ![alt text](static/icons/csv.png) |
+| editorconfig | ![alt text](static/icons/editorconfig.png) |
+| eslint | ![alt text](static/icons/eslint.png) |
+| exe | ![alt text](static/icons/exe.png) |
+| file | ![alt text](static/icons/file.png) |
+| git | ![alt text](static/icons/git.png) |
+| hooks | ![alt text](static/icons/hooks.json.png) |
+| html | ![alt text](static/icons/html.png) |
+| img | ![alt text](static/icons/img.png) |
+| js | ![alt text](static/icons/js.png) |
+| jsmap | ![alt text](static/icons/jsmap.png) |
+| license | ![alt text](static/icons/license.png) |
+| logs | ![alt text](static/icons/log.png) |
+| markdown | ![alt text](static/icons/md.png) |
+| MS Excel | ![alt text](static/icons/msexcel.png) |
+| MS Power Point | ![alt text](static/icons/mspowerpoint.png) |
+| MS Word | ![alt text](static/icons/msword.png) |
+| otf | ![alt text](static/icons/otf.png) |
+| package.json | ![alt text](static/icons/package.json.png) |
+| package-lock.json | ![alt text](static/icons/package-lock.json.png) |
+| pdf | ![alt text](static/icons/pdf.png) |
+| postcss | ![alt text](static/icons/postcss.png) |
+| prettier | ![alt text](static/icons/prettier.png) |
+| rar | ![alt text](static/icons/rar.png) |
+| react | ![alt text](static/icons/react.png) |
+| readme | ![alt text](static/icons/readme.png) |
+| launch.json | ![alt text](static/icons/rocket.png) |
+| scss | ![alt text](static/icons/scss.png) |
+| stylelint | ![alt text](static/icons/stylelint.png) |
+| svg | ![alt text](static/icons/svg.png) |
+| terminal | ![alt text](static/icons/terminal.png) |
+| typescript | ![alt text](static/icons/ts.png) |
+| typescript definitions | ![alt text](static/icons/ts.def.png) |
+| version| ![alt text](static/icons/version.txt.png) |
+| video | ![alt text](static/icons/video.png) |
+| vscode | ![alt text](static/icons/vscode.png) |
+| vue | ![alt text](static/icons/vue.png) |
+| webpack | ![alt text](static/icons/webpack.png) |
+| woff | ![alt text](static/icons/woff.png) |
+| woff2 | ![alt text](static/icons/woff2.png) |
+| wsdl | ![alt text](static/icons/wsdl.png) |
+| xml | ![alt text](static/icons/xml.png) |
+| yml | ![alt text](static/icons/yml.png) |
+| zip | ![alt text](static/icons/zip.png) |
 | **General Folders**  |  |
-| general | ![alt text](src/images/folder.svg) |
-| bin | ![alt text](src/images/folderBin.svg) |
-| cartridges | ![alt text](src/images/folderCartridges.svg) |
-| client | ![alt text](src/images/folderClient.svg) |
-| config | ![alt text](src/images/folderConfig.svg) |
-| controllers | ![alt text](src/images/folderControllers.svg) |
-| css | ![alt text](src/images/folderCss.svg) |
-| error pages | ![alt text](src/images/folderError.svg) |
-| experience | ![alt text](src/images/folderExperience.svg) |
-| font | ![alt text](src/images/folderFont.svg) |
-| forms | ![alt text](src/images/folderForms.svg) |
-| images | ![alt text](src/images/folderImg.svg) |
-| javascript | ![alt text](src/images/folderJs.svg) |
-| maintenance pages | ![alt text](src/images/folderMaint.svg) |
-| models | ![alt text](src/images/folderModels.svg) |
-| modules | ![alt text](src/images/folderModules.svg) |
-| node | ![alt text](src/images/folderNode.svg) |
-| resources | ![alt text](src/images/folderResources.svg) |
-| scripts | ![alt text](src/images/folderScripts.svg) |
-| scss | ![alt text](src/images/folderScss.svg) |
-| static | ![alt text](src/images/folderStatic.svg) |
-| templates | ![alt text](src/images/folderTemplates.svg) |
-| VS Code | ![alt text](src/images/folderVS.svg) |
-| webreferences | ![alt text](src/images/folderWebref.svg) |
+| general | ![alt text](static/icons/folder.png) |
+| bin | ![alt text](static/icons/folderBin.png) |
+| cartridges | ![alt text](static/icons/folderCartridges.png) |
+| client | ![alt text](static/icons/folderClient.png) |
+| config | ![alt text](static/icons/folderConfig.png) |
+| controllers | ![alt text](static/icons/folderControllers.png) |
+| css | ![alt text](static/icons/folderCss.png) |
+| error pages | ![alt text](static/icons/folderError.png) |
+| experience | ![alt text](static/icons/folderExperience.png) |
+| font | ![alt text](static/icons/folderFont.png) |
+| forms | ![alt text](static/icons/folderForms.png) |
+| images | ![alt text](static/icons/folderImg.png) |
+| javascript | ![alt text](static/icons/folderJs.png) |
+| maintenance pages | ![alt text](static/icons/folderMaint.png) |
+| models | ![alt text](static/icons/folderModels.png) |
+| modules | ![alt text](static/icons/folderModules.png) |
+| node | ![alt text](static/icons/folderNode.png) |
+| resources | ![alt text](static/icons/folderResources.png) |
+| scripts | ![alt text](static/icons/folderScripts.png) |
+| scss | ![alt text](static/icons/folderScss.png) |
+| static | ![alt text](static/icons/folderStatic.png) |
+| templates | ![alt text](static/icons/folderTemplates.png) |
+| VS Code | ![alt text](static/icons/folderVS.png) |
+| webreferences | ![alt text](static/icons/folderWebref.png) |
 
 ## 💻 Usage
 

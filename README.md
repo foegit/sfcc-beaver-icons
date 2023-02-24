@@ -12,98 +12,98 @@ Beaver had prepared his supplies and now it is winter time! It is colder now so 
 
 With different icons you can detect files and folders faster saving some time.
 
-| Name | Icons | |
-| ------------- | ------------- | ------------- |
+| Name | Icons |
+| ------------- | ------------- |
 | **SFCC Specific**  |  |
-| BM extension  | ![alt text](static/icons/bm_extensions.xml.png) |
-| caches | ![alt text](static/icons/caches.json.png) |
-| configs | ![alt text](static/icons/config.png) |
-| controller | ![alt text](static/icons/controller.png) |
-| ds | ![alt text](static/icons/ds.png) |
-| dw.json | ![alt text](static/icons/dw.json.png) |
-| isml | ![alt text](static/icons/isml.png) |
-| ismllinter | ![alt text](static/icons/ismllinter.png) |
-| jks | ![alt text](static/icons/jks.png) |
-| p12 | ![alt text](static/icons/p12.png) |
-| properties | ![alt text](static/icons/properties.png) |
-| steptypes | ![alt text](static/icons/steptypes.json.png) |
-| .project  | ![alt text](static/icons/cloud.png) |
-| .tern-project | ![alt text](static/icons/setting.png) |
+| BM extension  | <img src="static/icons/bm_extensions.xml.png" width="16" height="16" /> |
+| caches | <img src="static/icons/caches.json.png" width="16" height="16" /> |
+| configs | <img src="static/icons/config.png" width="16" height="16" /> |
+| controller | <img src="static/icons/controller.png" width="16" height="16" /> |
+| ds | <img src="static/icons/ds.png" width="16" height="16" /> |
+| dw.json | <img src="static/icons/dw.json.png" width="16" height="16" /> |
+| isml | <img src="static/icons/isml.png" width="16" height="16" /> |
+| ismllinter | <img src="static/icons/ismllinter.png" width="16" height="16" /> |
+| jks | <img src="static/icons/jks.png" width="16" height="16" /> |
+| p12 | <img src="static/icons/p12.png" width="16" height="16" /> |
+| properties | <img src="static/icons/properties.png" width="16" height="16" /> |
+| steptypes | <img src="static/icons/steptypes.json.png" width="16" height="16" /> |
+| .project  | <img src="static/icons/cloud.png" width="16" height="16" /> |
+| .tern-project | <img src="static/icons/setting.png" width="16" height="16" /> |
 | **General**  |  |
-| archives  | ![alt text](static/icons/7z.png) |
-| audio  | ![alt text](static/icons/audio.png) |
-| babel  | ![alt text](static/icons/babel.png) |
-| css  | ![alt text](static/icons/css.png) |
-| css map  | ![alt text](static/icons/cssmap.png) |
-| csv | ![alt text](static/icons/csv.png) |
-| editorconfig | ![alt text](static/icons/editorconfig.png) |
-| eslint | ![alt text](static/icons/eslint.png) |
-| exe | ![alt text](static/icons/exe.png) |
-| file | ![alt text](static/icons/file.png) |
-| git | ![alt text](static/icons/git.png) |
-| hooks | ![alt text](static/icons/hooks.json.png) |
-| html | ![alt text](static/icons/html.png) |
-| img | ![alt text](static/icons/img.png) |
-| js | ![alt text](static/icons/js.png) |
-| jsmap | ![alt text](static/icons/jsmap.png) |
-| license | ![alt text](static/icons/license.png) |
-| logs | ![alt text](static/icons/log.png) |
-| markdown | ![alt text](static/icons/md.png) |
-| MS Excel | ![alt text](static/icons/msexcel.png) |
-| MS Power Point | ![alt text](static/icons/mspowerpoint.png) |
-| MS Word | ![alt text](static/icons/msword.png) |
-| otf | ![alt text](static/icons/otf.png) |
-| package.json | ![alt text](static/icons/package.json.png) |
-| package-lock.json | ![alt text](static/icons/package-lock.json.png) |
-| pdf | ![alt text](static/icons/pdf.png) |
-| postcss | ![alt text](static/icons/postcss.png) |
-| prettier | ![alt text](static/icons/prettier.png) |
-| rar | ![alt text](static/icons/rar.png) |
-| react | ![alt text](static/icons/react.png) |
-| readme | ![alt text](static/icons/readme.png) |
-| launch.json | ![alt text](static/icons/rocket.png) |
-| scss | ![alt text](static/icons/scss.png) |
-| stylelint | ![alt text](static/icons/stylelint.png) |
-| svg | ![alt text](static/icons/svg.png) |
-| terminal | ![alt text](static/icons/terminal.png) |
-| typescript | ![alt text](static/icons/ts.png) |
-| typescript definitions | ![alt text](static/icons/ts.def.png) |
-| version| ![alt text](static/icons/version.txt.png) |
-| video | ![alt text](static/icons/video.png) |
-| vscode | ![alt text](static/icons/vscode.png) |
-| vue | ![alt text](static/icons/vue.png) |
-| webpack | ![alt text](static/icons/webpack.png) |
-| woff | ![alt text](static/icons/woff.png) |
-| woff2 | ![alt text](static/icons/woff2.png) |
-| wsdl | ![alt text](static/icons/wsdl.png) |
-| xml | ![alt text](static/icons/xml.png) |
-| yml | ![alt text](static/icons/yml.png) |
-| zip | ![alt text](static/icons/zip.png) |
+| archives  | <img src="static/icons/7z.png" width="16" height="16" /> |
+| audio  | <img src="static/icons/audio.png" width="16" height="16" /> |
+| babel  | <img src="static/icons/babel.png" width="16" height="16" /> |
+| css  | <img src="static/icons/css.png" width="16" height="16" /> |
+| css map  | <img src="static/icons/cssmap.png" width="16" height="16" /> |
+| csv | <img src="static/icons/csv.png" width="16" height="16" /> |
+| editorconfig | <img src="static/icons/editorconfig.png" width="16" height="16" /> |
+| eslint | <img src="static/icons/eslint.png" width="16" height="16" /> |
+| exe | <img src="static/icons/exe.png" width="16" height="16" /> |
+| file | <img src="static/icons/file.png" width="16" height="16" /> |
+| git | <img src="static/icons/git.png" width="16" height="16" /> |
+| hooks | <img src="static/icons/hooks.json.png" width="16" height="16" /> |
+| html | <img src="static/icons/html.png" width="16" height="16" /> |
+| img | <img src="static/icons/img.png" width="16" height="16" /> |
+| js | <img src="static/icons/js.png" width="16" height="16" /> |
+| jsmap | <img src="static/icons/jsmap.png" width="16" height="16" /> |
+| license | <img src="static/icons/license.png" width="16" height="16" /> |
+| logs | <img src="static/icons/log.png" width="16" height="16" /> |
+| markdown | <img src="static/icons/md.png" width="16" height="16" /> |
+| MS Excel | <img src="static/icons/msexcel.png" width="16" height="16" /> |
+| MS Power Point | <img src="static/icons/mspowerpoint.png" width="16" height="16" /> |
+| MS Word | <img src="static/icons/msword.png" width="16" height="16" /> |
+| otf | <img src="static/icons/otf.png" width="16" height="16" /> |
+| package.json | <img src="static/icons/package.json.png" width="16" height="16" /> |
+| package-lock.json | <img src="static/icons/package-lock.json.png" width="16" height="16" /> |
+| pdf | <img src="static/icons/pdf.png" width="16" height="16" /> |
+| postcss | <img src="static/icons/postcss.png" width="16" height="16" /> |
+| prettier | <img src="static/icons/prettier.png" width="16" height="16" /> |
+| rar | <img src="static/icons/rar.png" width="16" height="16" /> |
+| react | <img src="static/icons/react.png" width="16" height="16" /> |
+| readme | <img src="static/icons/readme.png" width="16" height="16" /> |
+| launch.json | <img src="static/icons/rocket.png" width="16" height="16" /> |
+| scss | <img src="static/icons/scss.png" width="16" height="16" /> |
+| stylelint | <img src="static/icons/stylelint.png" width="16" height="16" /> |
+| svg | <img src="static/icons/svg.png" width="16" height="16" /> |
+| terminal | <img src="static/icons/terminal.png" width="16" height="16" /> |
+| typescript | <img src="static/icons/ts.png" width="16" height="16" /> |
+| typescript definitions | <img src="static/icons/d.ts.png" width="16" height="16" /> |
+| version| <img src="static/icons/version.txt.png" width="16" height="16" /> |
+| video | <img src="static/icons/video.png" width="16" height="16" /> |
+| vscode | <img src="static/icons/vscode.png" width="16" height="16" /> |
+| vue | <img src="static/icons/vue.png" width="16" height="16" /> |
+| webpack | <img src="static/icons/webpack.png" width="16" height="16" /> |
+| woff | <img src="static/icons/woff.png" width="16" height="16" /> |
+| woff2 | <img src="static/icons/woff2.png" width="16" height="16" /> |
+| wsdl | <img src="static/icons/wsdl.png" width="16" height="16" /> |
+| xml | <img src="static/icons/xml.png" width="16" height="16" /> |
+| yml | <img src="static/icons/yml.png" width="16" height="16" /> |
+| zip | <img src="static/icons/zip.png" width="16" height="16" /> |
 | **General Folders**  |  |
-| general | ![alt text](static/icons/folder.png) |
-| bin | ![alt text](static/icons/folderBin.png) |
-| cartridges | ![alt text](static/icons/folderCartridges.png) |
-| client | ![alt text](static/icons/folderClient.png) |
-| config | ![alt text](static/icons/folderConfig.png) |
-| controllers | ![alt text](static/icons/folderControllers.png) |
-| css | ![alt text](static/icons/folderCss.png) |
-| error pages | ![alt text](static/icons/folderError.png) |
-| experience | ![alt text](static/icons/folderExperience.png) |
-| font | ![alt text](static/icons/folderFont.png) |
-| forms | ![alt text](static/icons/folderForms.png) |
-| images | ![alt text](static/icons/folderImg.png) |
-| javascript | ![alt text](static/icons/folderJs.png) |
-| maintenance pages | ![alt text](static/icons/folderMaint.png) |
-| models | ![alt text](static/icons/folderModels.png) |
-| modules | ![alt text](static/icons/folderModules.png) |
-| node | ![alt text](static/icons/folderNode.png) |
-| resources | ![alt text](static/icons/folderResources.png) |
-| scripts | ![alt text](static/icons/folderScripts.png) |
-| scss | ![alt text](static/icons/folderScss.png) |
-| static | ![alt text](static/icons/folderStatic.png) |
-| templates | ![alt text](static/icons/folderTemplates.png) |
-| VS Code | ![alt text](static/icons/folderVS.png) |
-| webreferences | ![alt text](static/icons/folderWebref.png) |
+| general | <img src="static/icons/folder.png" width="16" height="16" /> |
+| bin | <img src="static/icons/folderBin.png" width="16" height="16" /> |
+| cartridges | <img src="static/icons/folderCartridges.png" width="16" height="16" /> |
+| client | <img src="static/icons/folderClient.png" width="16" height="16" /> |
+| config | <img src="static/icons/folderConfig.png" width="16" height="16" /> |
+| controllers | <img src="static/icons/folderControllers.png" width="16" height="16" /> |
+| css | <img src="static/icons/folderCss.png" width="16" height="16" /> |
+| error pages | <img src="static/icons/folderError.png" width="16" height="16" /> |
+| experience | <img src="static/icons/folderExperience.png" width="16" height="16" /> |
+| font | <img src="static/icons/folderFont.png" width="16" height="16" /> |
+| forms | <img src="static/icons/folderForms.png" width="16" height="16" /> |
+| images | <img src="static/icons/folderImg.png" width="16" height="16" /> |
+| javascript | <img src="static/icons/folderJs.png" width="16" height="16" /> |
+| maintenance pages | <img src="static/icons/folderMaint.png" width="16" height="16" /> |
+| models | <img src="static/icons/folderModels.png" width="16" height="16" /> |
+| modules | <img src="static/icons/folderModules.png" width="16" height="16" /> |
+| node | <img src="static/icons/folderNode.png" width="16" height="16" /> |
+| resources | <img src="static/icons/folderResources.png" width="16" height="16" /> |
+| scripts | <img src="static/icons/folderScripts.png" width="16" height="16" /> |
+| scss | <img src="static/icons/folderScss.png" width="16" height="16" /> |
+| static | <img src="static/icons/folderStatic.png" width="16" height="16" /> |
+| templates | <img src="static/icons/folderTemplates.png" width="16" height="16" /> |
+| VS Code | <img src="static/icons/folderVS.png" width="16" height="16" /> |
+| webreferences | <img src="static/icons/folderWebref.png" width="16" height="16" /> |
 
 ## 💻 Usage
 

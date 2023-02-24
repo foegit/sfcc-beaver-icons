@@ -75,6 +75,7 @@
         "webreferences2": "_folder_webref_exp"
     },
     "fileExtensions": {
+        "__test": "_icon_test",
         "7z": "_icon_7z",
         "cmd": "_icon_terminal",
         "config/json": "_icon_config",
@@ -140,7 +141,9 @@
         "aac": "_icon_audio"
     },
     "languageIds": {
-        "javascript": "_icon_js"
+        "javascript": "_icon_js",
+        "typescriptreact": "_icon_react",
+        "javascriptreact": "_icon_react"
     },
     "fileNames": {
         ".babelrc": "_icon_babel",
@@ -291,6 +294,7 @@
         "_icon_svg": { "iconPath": "./images/svg.svg" },
         "_icon_setting": { "iconPath": "./images/setting.svg" },
         "_icon_stylelint": { "iconPath": "./images/stylelint.svg" },
+        "_icon_test": { "iconPath": "./images/__test.svg" },
         "_icon_terminal": { "iconPath": "./images/terminal.svg" },
         "_icon_ts": { "iconPath": "./images/ts.svg" },
         "_icon_ts_def": { "iconPath": "./images/ts.def.svg" },

@@ -4,9 +4,13 @@
 
 This extension provides **semantic** icons for the files and folders for SFCC project and most commonly used files.
 
-## 🌲 Winter Update
+## 🌷 Spring Update
 
-Beaver had prepared his supplies and now it is winter time! It is colder now so your folders ![alt text](static/folderExp.png) have frozen too. But don't worry you also have a new year tree ![alt text](static/dw-tree.png) on you dw.json file.
+Spring began and Beaver needs to prepare for big water coming from the mountains.
+
+You `dw.json` is secured with the yellow tulip icon <img src="static/icons/dw.json.png" width="14" height="14" />.
+
+Your <img src="static/icons/folderExp.png" width="14" height="14" /> folders also matches the tulip color.
 
 ## 👁️‍🗨️ Icons
 

@@ -1,8 +1,10 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4 11C3.44772 11 3 11.4477 3 12V12C3 12.5523 3.44772 13 4 13L9 13C9.55228 13 10 12.5523 10 12V12C10 11.4477 9.55228 11 9 11L4 11Z" fill="#0092DA"/>
-<path d="M7 3C6.44772 3 6 3.44772 6 4V4C6 4.55228 6.44772 5 7 5L9 5C9.55228 5 10 4.55228 10 4V4C10 3.44772 9.55228 3 9 3L7 3Z" fill="#0092DA"/>
-<rect width="2" height="7" rx="1" transform="matrix(-1 0 0 1 5 6)" fill="#0092DA"/>
-<rect x="0.75" y="0.75" width="4.5" height="4.5" transform="matrix(4.37114e-08 1 1 -4.37114e-08 1 1)" stroke="#0092DA" stroke-width="1.5"/>
-<rect x="0.75" y="0.75" width="4.5" height="4.5" rx="2.25" transform="matrix(4.37114e-08 1 1 -4.37114e-08 9 9)" stroke="#0092DA" stroke-width="1.5"/>
-<rect x="0.75" y="0.75" width="4.5" height="4.5" rx="2.25" transform="matrix(4.37114e-08 1 1 -4.37114e-08 9 1)" stroke="#0092DA" stroke-width="1.5"/>
+<mask id="mask0_808_135" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<rect width="16" height="16" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_808_135)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 8C1 4.13401 4.13401 1 8 1V3.99999C5.79086 3.99999 4 5.79085 4 7.99999C4 10.2091 5.79086 12 8 12V15C4.13401 15 1 11.866 1 8Z" fill="#0092DA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.3351 5.01851C14.2251 5.00628 14.1133 5 14 5C13.7413 5 13.4902 5.03275 13.2507 5.09432C12.545 3.82173 11.39 2.83272 10 2.34141V1.28989C11.9192 1.86106 13.4934 3.23313 14.3351 5.01851ZM13.2507 10.9057C13.4902 10.9673 13.7413 11 14 11C14.1133 11 14.2251 10.9937 14.3351 10.9815C13.4934 12.7669 11.9192 14.139 10 14.7101V13.6586C11.39 13.1673 12.545 12.1783 13.2507 10.9057Z" fill="#C5C5C5"/>
+<rect x="12" y="6" width="4" height="4" rx="2" fill="#C5C5C5"/>
+</g>
 </svg>

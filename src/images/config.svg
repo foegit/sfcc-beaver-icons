@@ -2,10 +2,10 @@
 <circle cx="8" cy="8" r="3.5" stroke="#E08C2A" stroke-width="3"/>
 <rect x="6.83334" y="1" width="2.33333" height="2.33333" rx="0.3" fill="#E08C2A"/>
 <rect x="6.83334" y="12.6667" width="2.33333" height="2.33333" rx="0.3" fill="#E08C2A"/>
-<rect x="12.6667" y="6.83334" width="2.33333" height="2.33333" rx="0.3" fill="#E08C2A"/>
-<rect x="1" y="6.83334" width="2.33333" height="2.33333" rx="0.3" fill="#E08C2A"/>
-<rect x="3.81658" y="2.16666" width="2.33333" height="2.33333" rx="0.3" transform="rotate(45 3.81658 2.16666)" fill="#E08C2A"/>
-<rect x="11.9832" y="2.16666" width="2.33333" height="2.33333" rx="0.3" transform="rotate(45 11.9832 2.16666)" fill="#E08C2A"/>
+<rect x="12.6667" y="6.83331" width="2.33333" height="2.33333" rx="0.3" fill="#E08C2A"/>
+<rect x="1" y="6.83331" width="2.33333" height="2.33333" rx="0.3" fill="#E08C2A"/>
+<rect x="3.81659" y="2.16669" width="2.33333" height="2.33333" rx="0.3" transform="rotate(45 3.81659 2.16669)" fill="#E08C2A"/>
+<rect x="11.9832" y="2.16669" width="2.33333" height="2.33333" rx="0.3" transform="rotate(45 11.9832 2.16669)" fill="#E08C2A"/>
 <rect x="11.9832" y="10.3333" width="2.33333" height="2.33333" rx="0.3" transform="rotate(45 11.9832 10.3333)" fill="#E08C2A"/>
-<rect x="3.81658" y="10.3333" width="2.33333" height="2.33333" rx="0.3" transform="rotate(45 3.81658 10.3333)" fill="#E08C2A"/>
+<rect x="3.81659" y="10.3333" width="2.33333" height="2.33333" rx="0.3" transform="rotate(45 3.81659 10.3333)" fill="#E08C2A"/>
 </svg>

@@ -139,7 +139,9 @@
         "flac": "_icon_audio",
         "m4a": "_icon_audio",
         "wav": "_icon_audio",
-        "aac": "_icon_audio"
+        "aac": "_icon_audio",
+
+        "customer-lists/xml": "_icon_customer-lists"
     },
     "languageIds": {
         "javascript": "_icon_js",
@@ -218,7 +220,22 @@
         "Untitled-6": "_icon_untitled",
         "version.txt": "_icon_version",
         "webpack.config.js": "_icon_webpack",
-        "webpack-dev.config.js": "_icon_webpack"
+        "webpack-dev.config.js": "_icon_webpack",
+
+        "system-objecttype-extensions.xml": "_icon_system-objecttype-extensions",
+        "system-objecttype-extensions-dev.xml": "_icon_system-objecttype-extensions",
+        "system-objecttype-extensions-stg.xml": "_icon_system-objecttype-extensions",
+        "system-objecttype-extensions-prd.xml": "_icon_system-objecttype-extensions",
+        "custom-objecttype-definitions.xml": "_icon_custom-objecttype-definitions",
+        "jobs.xml": "_icon_jobs",
+        "jobs-dev.xml": "_icon_jobs",
+        "jobs-stg.xml": "_icon_jobs",
+        "jobs-prd.xml": "_icon_jobs",
+        "services.xml": "_icon_services",
+        "services-dev.xml": "_icon_services",
+        "services-stg.xml": "_icon_services",
+        "services-prd.xml": "_icon_services",
+        "library.xml": "_icon_library"
     },
     "iconDefinitions": {
         "_file": { "iconPath": "./images/file.svg" },
@@ -298,6 +315,7 @@
         "_icon_ismllinter": { "iconPath": "./images/ismllinter.svg" },
         "_icon_jks": { "iconPath": "./images/jks.svg" },
         "_icon_js": { "iconPath": "./images/js.svg" },
+        "_icon_jobs": { "iconPath": "./images/meta/jobs.svg" },
         "_icon_json": { "iconPath": "./images/json.svg" },
         "_icon_jsmap": { "iconPath": "./images/jsmap.svg" },
         "_icon_git": { "iconPath": "./images/git.svg" },
@@ -320,10 +338,12 @@
         "_icon_react": { "iconPath": "./images/react.svg" },
         "_icon_rocket": { "iconPath": "./images/rocket.svg" },
         "_icon_scss": { "iconPath": "./images/scss.svg" },
-        "_icon_steptypes": { "iconPath": "./images/steptypes.json.svg" },
+        "_icon_services": { "iconPath": "./images/meta/services.svg" },
         "_icon_svg": { "iconPath": "./images/svg.svg" },
         "_icon_setting": { "iconPath": "./images/setting.svg" },
         "_icon_stylelint": { "iconPath": "./images/stylelint.svg" },
+        "_icon_system-objecttype-extensions": { "iconPath": "./images/meta/system-objecttype-extensions.svg" },
+        "_icon_custom-objecttype-definitions": { "iconPath": "./images/meta/custom-objecttype-definitions.svg" },
         "_icon_test": { "iconPath": "./images/__test.svg" },
         "_icon_terminal": { "iconPath": "./images/terminal.svg" },
         "_icon_ts": { "iconPath": "./images/ts.svg" },
@@ -342,6 +362,9 @@
         "_icon_woff2": { "iconPath": "./images/woff2.svg" },
         "_icon_xml": { "iconPath": "./images/xml.svg" },
         "_icon_yml": { "iconPath": "./images/yml.svg" },
-        "_icon_zip": { "iconPath": "./images/zip.svg" }
+        "_icon_zip": { "iconPath": "./images/zip.svg" },
+
+        "_icon_customer-lists": {"iconPath": "./images/meta/customer-lists.svg"},
+        "_icon_library": {"iconPath": "./images/meta/library.svg"}
     }
 }

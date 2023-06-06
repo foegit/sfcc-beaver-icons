@@ -142,7 +142,10 @@
         "aac": "_icon_audio",
 
         "customer-lists/xml": "_icon_customer-lists",
-        "custom-objects/xml": "_icon_custom-object"
+        "custom-objects/xml": "_icon_custom-object",
+        "inventory-lists/xml": "_icon_inventory",
+        "geolocations/xml": "_icon_geolocation",
+        "pricebooks/xml": "_icon_pricebook"
     },
     "languageIds": {
         "javascript": "_icon_js",
@@ -250,7 +253,20 @@
         "sitemapconfiguration.xml": "_icon_sitemap",
         "aliases": "_icon_aliases",
         "tax.xml": "_icon_tax",
-        "url-rules.xml": "_icon_url-rules"
+        "url-rules.xml": "_icon_url-rules",
+        "abtests.xml": "_icon_ab",
+        "coupons.xml": "_icon_coupons",
+        "customer-cdn-settings.xml": "_icon_cdn",
+        "feeds.xml": "_icon_feeds",
+        "promotions.xml": "_icon_promotions",
+        "search.xml": "_icon_search",
+        "slots.xml": "_icon_slots",
+        "sourcecodes.xml": "_icon_sourcecodes",
+        "stores.xml": "_icon_stores",
+        "redirect-urls.xml": "_icon_url-rules",
+        "dcext.xml": "_icon_dcext",
+        "dcext.xml": "_icon_dcext",
+        "catalog.xml": "_icon_catalog"
     },
     "iconDefinitions": {
         "_file": { "iconPath": "./images/file.svg" },
@@ -395,6 +411,19 @@
         "_icon_aliases": {"iconPath": "./images/meta/aliases.svg"},
         "_icon_tax": {"iconPath": "./images/meta/tax.svg"},
         "_icon_url-rules": {"iconPath": "./images/meta/url-rules.svg"},
-        "_icon_custom-object": {"iconPath": "./images/meta/custom-object.svg"}
+        "_icon_custom-object": {"iconPath": "./images/meta/custom-object.svg"},
+        "_icon_ab": {"iconPath": "./images/meta/ab.svg"},
+        "_icon_cdn": {"iconPath": "./images/meta/cdn.svg"},
+        "_icon_coupons": {"iconPath": "./images/meta/coupons.svg"},
+        "_icon_feeds": {"iconPath": "./images/meta/feeds.svg"},
+        "_icon_promotions": {"iconPath": "./images/meta/promotions.svg"},
+        "_icon_slots": {"iconPath": "./images/meta/slots.svg"},
+        "_icon_sourcecodes": {"iconPath": "./images/meta/sourcecodes.svg"},
+        "_icon_stores": {"iconPath": "./images/meta/stores.svg"},
+        "_icon_dcext": {"iconPath": "./images/meta/dcext.svg"},
+        "_icon_inventory": {"iconPath": "./images/meta/inventory.svg"},
+        "_icon_geolocation": {"iconPath": "./images/meta/geolocation.svg"},
+        "_icon_pricebook": {"iconPath": "./images/meta/pricebook.svg"},
+        "_icon_catalog": {"iconPath": "./images/meta/catalog.svg"}
     }
 }
